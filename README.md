@@ -1,5 +1,8 @@
 # [租房防坑记录](https://apachecn.github.io/zufang-note/)
 
+> 本文选自 [《桌面运维管理指南》](https://hoochanlon.github.io/helpdesk-manual/notice/interview.html) 特别篇-社会工程 章节
+> 项目地址： https://github.com/hoochanlon/helpdesk-manual
+
 ## 了解租房方式
 在求职的时间段，如果资金不是特别宽裕，最好暂住在朋友家。相互彼此之间也能提供一个照应，暂时缓解了急需住房困难的问题，同时也能够安心专注地找工作。有小区有门禁的话，最好和安保混熟点，每天打声招呼及问候并不是很难；顺便再说一下，如果遇到新安保就说：拜访朋友临时进出一下；毕竟如果朋友也是租户的话，没有这么权限电话通知让安保放行，必须亲自去接应你，才可放行。
 
